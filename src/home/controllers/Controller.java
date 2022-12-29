@@ -1,4 +1,4 @@
-package home;
+package home.controllers;
 
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
